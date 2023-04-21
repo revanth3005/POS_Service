@@ -1,42 +1,125 @@
 {
-    "foodItems": [
-        {
-            "id": 1,
-            "rating": 10,
-            "user_name": "Tony Stark",
-            "text": "You are the ironman of this world"
-        },
-        {
-            "id": 2,
-            "rating": 9,
-            "user_name": "Bruce Wayne",
-            "text": "You are the batman of this world"
-        },
-        {
-            "id": 3,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
-        }
-    ],
-    "cartItems": [
-        {
-            "id": 1,
-            "rating": 10,
-            "user_name": "Tony Stark",
-            "text": "You are the ironman of this world"
-        },
-        {
-            "id": 2,
-            "rating": 9,
-            "user_name": "Bruce Wayne",
-            "text": "You are the batman of this world"
-        },
-        {
-            "id": 3,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
-        }
-    ]
+  "foodItems": [
+    {
+      "id": 1,
+      "src": "https://img.freepik.com/free-photo/gourmet-lifestyle-cocina-yummy-foodie_1350-49.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
+      "name": "Veg Biryani",
+      "category": "veg",
+      "price": 210
+    },
+    {
+      "id": 2,
+      "src": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-4415.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
+      "name": "Butter chicken",
+      "category": "non-veg",
+      "price": 250
+    },
+    {
+      "id": 3,
+      "src": "https://img.freepik.com/free-photo/vertical-shot-traditional-indian-paneer-butter-masala-cheese-cottage-curry-black-surface_181624-32001.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
+      "name": "Tikka masala",
+      "category": "veg",
+      "price": 210
+    },
+    {
+      "id": 4,
+      "src": "https://img.freepik.com/free-photo/flat-lay-pakistani-food-arrangement_23-2148825110.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=sph",
+      "name": "Saag paneer",
+      "category": "veg",
+      "price": 290
+    },
+    {
+      "id": 5,
+      "src": "https://img.freepik.com/free-photo/high-angle-pakistan-meal-composition_23-2148821517.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=sph",
+      "name": "Chicken Biryani",
+      "category": "non-veg",
+      "price": 310
+    },
+    {
+      "id": 6,
+      "src": "https://img.freepik.com/free-photo/side-close-up-view-pilaf-appetizing-pilaf-with-rice-meat-dried-fruits_140725-74038.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
+      "name": "Mutton Biryani",
+      "category": "non-veg",
+      "price": 350
+    },
+    {
+      "id": 7,
+      "src": "https://img.freepik.com/free-photo/bowl-curry-with-bowl-curry-sauce-it_1340-23254.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
+      "name": "Chana masala",
+      "category": "veg",
+      "price": 200
+    },
+    {
+      "id": 8,
+      "src": "https://img.freepik.com/free-photo/appetizing-kofta-kebab-meatballs-with-sauce-tortillas-tacos-black-table_2829-7883.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
+      "name": "Chicken tikka",
+      "category": "non-veg",
+      "price": 250
+    },
+    {
+      "id": 9,
+      "src": "https://img.freepik.com/free-photo/side-view-chicken-kebab-with-grilled-hot-green-pepper-tomato-pickled-cabbage-rice-pita_141793-4837.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
+      "name": "Fish Biryani",
+      "category": "non-veg",
+      "price": 399
+    },
+    {
+      "id": 10,
+      "src": "https://img.freepik.com/free-photo/delicious-pakistani-food-with-tomato-sauce_23-2148825164.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
+      "name": "Samosas",
+      "category": "Appetizers",
+      "price": 250
+    },
+    {
+      "id": 11,
+      "src": "https://img.freepik.com/free-photo/delicious-roti-assortment-table-with-copy-space_23-2149034042.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
+      "name": "Naan bread",
+      "category": "veg",
+      "price": 40
+    },
+    {
+      "id": 12,
+      "src": "https://img.freepik.com/free-photo/delicious-assortment-traditional-roti_23-2149033986.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=sph",
+      "name": "Roti",
+      "category": "veg",
+      "price": 20
+    },
+    {
+      "id": 13,
+      "src": "https://img.freepik.com/free-photo/high-angle-delicious-indian-dessert_23-2149312428.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
+      "name": "Gulab jamun",
+      "category": "dessert",
+      "price": 100
+    },
+    {
+      "id": 14,
+      "src": "https://as1.ftcdn.net/v2/jpg/01/40/74/74/1000_F_140747483_qGJbwZBzu7mXSLhkaU62tmRGVFYjI8Iz.jpg",
+      "name": "Jalebi",
+      "category": "dessert",
+      "price": 20
+    },
+    {
+      "id": 15,
+      "src": "https://img.freepik.com/free-photo/yogurt-popsicles_144627-34403.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=sph",
+      "name": "Kulfi",
+      "category": "dessert",
+      "price": 50
+    }
+  ],
+  "cartItems": [
+    {
+      "id": 1,
+      "src": "",
+      "rating": 10,
+      "user_name": "Tony Stark",
+      "text": "You are the ironman of this world"
+    },
+    {
+      "id": 2,
+      "src": "",
+      "rating": 9,
+      "user_name": "Bruce Wayne",
+      "text": "You are the batman of this world"
+    }
+  ]
 }
