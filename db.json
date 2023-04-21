@@ -16,7 +16,7 @@
     },
     {
       "id": 3,
-      "src":"https://img.freepik.com/free-photo/grilled-spicy-chili-it-s-called-maha-decorate-dish-beautifully_1150-23000.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
+      "src": "https://img.freepik.com/free-photo/grilled-spicy-chili-it-s-called-maha-decorate-dish-beautifully_1150-23000.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
       "name": "Tikka masala",
       "category": "veg",
       "price": 210
@@ -108,55 +108,28 @@
   ],
   "billedItems": [
     {
-        "billTime": "",
-        "billItems": [
-          {
-            "id": 13,
-            "name": "Gulab jamun",
-            "category": "dessert",
-            "price": 100
-          },
-          {
-            "id": 14,
-            "name": "Jalebi",
-            "category": "dessert",
-            "price": 20
-          },
-          {
-            "id": 15,
-            "name": "Kulfi",
-            "category": "dessert",
-            "price": 50
-          }
-        ]
-      },
-      {
-        "billTime": "",
-        "billItems": [
-            {
-                "id": 8,
-                "name": "Chicken tikka",
-                "category": "non-veg",
-                "price": 250
-              },
-              {
-                "id": 9,                "name": "Fish Biryani",
-                "category": "non-veg",
-                "price": 399
-              },
-              {
-                "id": 10,
-                "name": "Samosas",
-                "category": "Appetizers",
-                "price": 250
-              },
-              {
-                "id": 11,
-                "name": "Naan bread",
-                "category": "veg",
-                "price": 40
-              }
-        ]
-      }
+      "id": 1,
+      "billTime": "",
+      "billItems": [
+        {
+          "id": 13,
+          "name": "Gulab jamun",
+          "category": "dessert",
+          "price": 100
+        },
+        {
+          "id": 14,
+          "name": "Jalebi",
+          "category": "dessert",
+          "price": 20
+        },
+        {
+          "id": 15,
+          "name": "Kulfi",
+          "category": "dessert",
+          "price": 50
+        }
+      ]
+    }
   ]
 }
