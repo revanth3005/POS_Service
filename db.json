@@ -106,20 +106,57 @@
       "price": 50
     }
   ],
-  "cartItems": [
+  "billedItems": [
     {
-      "id": 1,
-      "src": "",
-      "rating": 10,
-      "user_name": "Tony Stark",
-      "text": "You are the ironman of this world"
-    },
-    {
-      "id": 2,
-      "src": "",
-      "rating": 9,
-      "user_name": "Bruce Wayne",
-      "text": "You are the batman of this world"
-    }
+        "billTime": "",
+        "billItems": [
+          {
+            "id": 13,
+            "name": "Gulab jamun",
+            "category": "dessert",
+            "price": 100
+          },
+          {
+            "id": 14,
+            "name": "Jalebi",
+            "category": "dessert",
+            "price": 20
+          },
+          {
+            "id": 15,
+            "name": "Kulfi",
+            "category": "dessert",
+            "price": 50
+          }
+        ]
+      },
+      {
+        "billTime": "",
+        "billItems": [
+            {
+                "id": 8,
+                "name": "Chicken tikka",
+                "category": "non-veg",
+                "price": 250
+              },
+              {
+                "id": 9,                "name": "Fish Biryani",
+                "category": "non-veg",
+                "price": 399
+              },
+              {
+                "id": 10,
+                "name": "Samosas",
+                "category": "Appetizers",
+                "price": 250
+              },
+              {
+                "id": 11,
+                "name": "Naan bread",
+                "category": "veg",
+                "price": 40
+              }
+        ]
+      }
   ]
 }
