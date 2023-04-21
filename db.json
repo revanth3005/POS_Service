@@ -107,29 +107,5 @@
     }
   ],
   "billedItems": [
-    {
-      "id": 1,
-      "billTime": "",
-      "billItems": [
-        {
-          "id": 13,
-          "name": "Gulab jamun",
-          "category": "dessert",
-          "price": 100
-        },
-        {
-          "id": 14,
-          "name": "Jalebi",
-          "category": "dessert",
-          "price": 20
-        },
-        {
-          "id": 15,
-          "name": "Kulfi",
-          "category": "dessert",
-          "price": 50
-        }
-      ]
-    }
   ]
 }
