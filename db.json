@@ -106,12 +106,7 @@
       "price": 50
     }
   ],
-  "billedItems": [
-  ],
-  "checkoutBills": [
-    {
-      "id":1
-    }
+  "billedItems": [],
+  "totalRevenuesPerDate": [
   ]
 }
- 
