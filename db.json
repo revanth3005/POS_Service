@@ -104,6 +104,13 @@
       "name": "Kulfi",
       "category": "dessert",
       "price": 50
+    },
+    {
+      "id": 16,
+      "src": "https://img.freepik.com/free-photo/yogurt-popsicles_144627-34403.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=sph",
+      "name": "Double Kulfi",
+      "category": "dessert",
+      "price": 80
     }
   ],
   "billedItems": [],
