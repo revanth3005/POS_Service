@@ -68,7 +68,7 @@
       "src": "https://img.freepik.com/free-photo/delicious-pakistani-food-with-tomato-sauce_23-2148825164.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=ais",
       "name": "Samosas",
       "category": "Appetizers",
-      "price": 250
+      "price": 50
     },
     {
       "id": 11,
@@ -96,7 +96,7 @@
       "src": "https://as1.ftcdn.net/v2/jpg/01/40/74/74/1000_F_140747483_qGJbwZBzu7mXSLhkaU62tmRGVFYjI8Iz.jpg",
       "name": "Jalebi",
       "category": "dessert",
-      "price": 20
+      "price": 80
     },
     {
       "id": 15,
@@ -110,10 +110,29 @@
       "src": "https://img.freepik.com/free-photo/yogurt-popsicles_144627-34403.jpg?size=626&ext=jpg&ga=GA1.1.1169681092.1681971486&semt=sph",
       "name": "Double Kulfi",
       "category": "dessert",
-      "price": 80
+      "price": 100
     }
   ],
   "billedItems": [],
-  "totalRevenuesPerDate": [
+  "totalRevenuesPerDate": [],
+  "prices": [
+    {
+      "Veg Biryani": 210,
+      "Butter chicken": 250,
+      "Tikka masala": 210,
+      "Saag paneer": 290,
+      "Chicken Biryani": 310,
+      "Mutton Biryani": 350,
+      "Chana masala": 200,
+      "Chicken tikka": 250,
+      "Fish Biryani": 399,
+      "Samosas": 50,
+      "Naan bread": 40,
+      "Roti": 20,
+      "Gulab jamun": 100,
+      "Jalebi": 80,
+      "Kulfi": 50,
+      "Double Kulfi": 100
+    }
   ]
 }
