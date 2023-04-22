@@ -115,8 +115,8 @@
   ],
   "billedItems": [],
   "totalRevenuesPerDate": [],
-  "prices": [
-    {
+  "prices": {
+    "prices": {
       "Veg Biryani": 210,
       "Butter chicken": 250,
       "Tikka masala": 210,
@@ -134,5 +134,5 @@
       "Kulfi": 50,
       "Double Kulfi": 100
     }
-  ]
+  }
 }
